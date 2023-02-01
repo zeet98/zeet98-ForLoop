@@ -3,10 +3,10 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class ForLoopTest {
-    static ForLoop floop;
+    static Lab floop;
     @BeforeClass
     public static void setUp(){
-        floop = new ForLoop();
+        floop = new Lab();
     }
 
     /**

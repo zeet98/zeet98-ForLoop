@@ -1,6 +1,6 @@
 
 
-public class ForLoop {
+public class Lab {
     /**
      *
      * Let's try writing a for loop at the 'code here' point...
